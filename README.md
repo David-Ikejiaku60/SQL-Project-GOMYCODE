@@ -87,6 +87,6 @@ Examples include:
 
 ## Author
 
-**David Ikejiaku**
+**Chinemerem David Ikejiaku**
 
 GoMyCode Data Science Bootcamp
