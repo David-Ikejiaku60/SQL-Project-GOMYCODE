@@ -67,7 +67,7 @@ Examples include:
 .
 ├── Database.sql          # Database creation script
 ├── Queries.sql           # SQL solutions
-├── query_result          # Output screenshots
+├── query_result_images   # Output screenshots
 └── README.md
 ```
 
